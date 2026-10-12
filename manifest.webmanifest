@@ -1,0 +1,9 @@
+{
+  "name": "JiZhao AI Photo ID",
+  "short_name": "JiZhao",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#0f172a",
+  "description": "Zero-settings AI photo ID experience."
+}
